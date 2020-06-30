@@ -1,6 +1,6 @@
 - title: Home
   url: "/"
-  side: left
+#   side: left
 
 # - title: Completed
 #   url: "/getting-started/"
@@ -8,7 +8,7 @@
 
 - title: "Completed Projects"
   url: "/design/"
-  side: left
+#   side: left
   dropdown:
   - title: "How Changes Have Affected the Powerball Lottery in the USA."
     url: "/PB-Changes-Results/"

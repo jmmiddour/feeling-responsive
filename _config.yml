@@ -38,11 +38,11 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/jmmiddour/jmmiddour.github.io/images/'
+urlimg: 'https://github.com/jmmiddour/jmmiddour.github.io/assets/img/'
 
 
 # Logo size is 600x80 pixels
-logo: "97-977946_download-decorative-figure-color-paint-splash-vector-3d.png"
+logo: "Joanne Logo.png"
 
 # Plugins
 plugins:
